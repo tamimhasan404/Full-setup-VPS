@@ -1,0 +1,8 @@
+### When just create a VPS
+> Install kali-linux VPS
+> type apt update && sudo apt full-upgrade -y
+> then install go other wise it's not work
+apt install golang-go
+
+### Expetional if you use debiean 11 then install all necessary git or bash files like
+apt-get install git tmux
