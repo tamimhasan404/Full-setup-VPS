@@ -6,3 +6,7 @@ apt install golang-go
 
 ### Expetional if you use debiean 11 then install all necessary git or bash files like
 apt-get install git tmux
+
+## > for vps move tool in roots
+
+cp haktrails /usr/local/bin
